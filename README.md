@@ -2,7 +2,7 @@
 
 ## Penjelasan Repository
 
-Pada respository ini, disimpan database schema untuk Movie Store Website yang sedang didesain pada dengan Figma pada [Wireframe berikut](https://www.figma.com/file/bTfNSWux0iKoR9TjtgqUl8/Movie-Store-Website?node-id=0%3A1). Berikut adalah penjelasan direktori yang ada di repository ini:
+Pada repositori ini, disimpan database schema untuk Movie Store Website yang sedang didesain pada dengan Figma pada [Wireframe berikut](https://www.figma.com/file/bTfNSWux0iKoR9TjtgqUl8/Movie-Store-Website?node-id=0%3A1). Berikut adalah penjelasan direktori yang ada di repository ini:
 
 1. `schema-design`: direktori ini berisi file pdf brainstorming schema dan desain final database schema dalam bentuk ER Diagram.
 2. `schema-sql`: implementasi schema dari ERD dalam bentuk script SQL untuk PostgreSQL.

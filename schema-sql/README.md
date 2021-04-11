@@ -1,6 +1,6 @@
 # Movie Store SQL Schemas
 
-## Keterangan Respositori
+## Keterangan Direktori
 
 Pada direktori ini, schema database untuk Movie Store Website yang telah di desain pada dokumen di direktori `schema-designs` diimplementasikan dalam bentuk query SQL, spesifiknya query untuk `PostgreSQL`. Untuk melihat desain kasar / wirefram dari tampilan front-end Movie Store Website ini, silahkan buka link Figma berikut: [Wireframe Movie Store Website](https://www.figma.com/file/bTfNSWux0iKoR9TjtgqUl8/Movie-Store-Website?node-id=0%3A1)
 
