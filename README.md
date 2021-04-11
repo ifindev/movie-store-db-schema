@@ -13,7 +13,6 @@ Pada respository ini, disimpan database schema untuk Movie Store Website yang se
 Untuk melakukan migrasi tabel secara otomatis, maka lakukan hal-hal berikut:
 
 - setup terlebih dahulu server PostgreSQL lokal dan databasenya sesuai dengan tatacara yang dijelaskan pada bagian akhir README `schema-sql`
-- buka direktori `src`
 - jalankan program `app.js` dengan perintah `node app.js` di direktori.
 
 Untuk melakukan migrasi tabel secara manual, silahkan copy-paste script SQL di terminal `psql` atau di Query Tool pgAdmin sesuai dengan urutan yang telah diberikan di README direktori `schema-sql`.
