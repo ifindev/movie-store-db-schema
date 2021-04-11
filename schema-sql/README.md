@@ -48,9 +48,9 @@ Karena adanya hubungan antar tabel, maka inisialisasi pembuatan tabel haruslah d
 - subtitle_film
 - daftar_pemeran
 - daftar_film_pemeran
+- daftar_film_berseri
 - daftar_genre
 - genre_film
-- daftar_film_berseri
 
 ## Catatan Tambahan
 
