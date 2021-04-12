@@ -10,6 +10,7 @@ Pada repositori ini, disimpan database schema untuk Movie Store Website yang sed
 
 ## Cara Penggunaan
 **catatan: saat ini program migrasi secara otomatis masih on-progress.**
+
 Untuk melakukan migrasi tabel secara otomatis, maka lakukan hal-hal berikut:
 
 - setup terlebih dahulu server PostgreSQL lokal dan databasenya sesuai dengan tatacara yang dijelaskan pada bagian akhir README `schema-sql`
