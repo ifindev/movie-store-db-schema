@@ -13,7 +13,9 @@ Pada direktori ini, disimpan dua buah query sql yang dapat digunakan untuk mempe
 Berikut adalah gambar hasil tabel yang diperoleh dengan dua query sebelumnya:
 
 ![Data pembelian movie user](./img/riwayat_pembelian_film.png)
+<br>
 Riwayat pembelian film / movie oleh user
 
 ![Data membership user](./img/data_membership_user.png)
+<br>
 Data membership user
