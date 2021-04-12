@@ -9,7 +9,7 @@ Pada repositori ini, disimpan database schema untuk Movie Store Website yang sed
 3. `src`: direktori ini berisi modul-modul dan program javascript berbasis Node.js yang digunakan untuk melakukan migrasi tabel sesuai schema ke PostgreSQL database.
 
 ## Cara Penggunaan
-**catatan: saat ini program migrasi secara otomatis masih on-progress.**
+**catatan: saat ini program untuk migrasi secara otomatis masih on-progress.**
 
 Untuk melakukan migrasi tabel secara otomatis, maka lakukan hal-hal berikut:
 
