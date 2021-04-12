@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhammad Arifin",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifindev/movie-store-db-schema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ifindev/movie-store-db-schema/issues"
+  },
+  "homepage": "https://github.com/ifindev/movie-store-db-schema#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
 }
