@@ -6,7 +6,8 @@ Pada direktori ini, disimpan dua buah query sql yang dapat digunakan untuk mempe
 
 1. riwayat pembelian movie oleh user
 2. data membership user.
-   Untuk saat ini saya belum terlalu paham cara membuat stored procedure. Oleh karena itu saya simpan terlebih dahulu query sql untuk kedua use case di atas.
+
+Untuk saat ini saya belum terlalu paham cara membuat stored procedure. Oleh karena itu saya simpan terlebih dahulu query sql untuk kedua use case di atas.
 
 ## Hasil Query
 
