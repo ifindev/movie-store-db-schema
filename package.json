@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ifindev/movie-store-db-schema#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "pg": "^8.5.1"
   }
 }
